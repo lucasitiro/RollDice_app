@@ -1,5 +1,7 @@
 # one_app
 
+Meu primeiro app dentro do curso de Flutter
+
 A new Flutter project.
 
 ## Getting Started
